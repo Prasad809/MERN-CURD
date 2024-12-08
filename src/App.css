@@ -1,0 +1,9 @@
+.card{
+    padding: 20px;
+    border: 2px black solid;
+    border-radius: 20px;
+}
+.card:hover{
+    transform: scale(1.1);
+    box-shadow: 0 0 10px pink;
+}
